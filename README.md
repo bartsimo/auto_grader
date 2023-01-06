@@ -1,4 +1,4 @@
-# points.py
+# auto_grader
 #### Video Demo: https://youtu.be/_KNplmgpG0c
 #### Description:
 Command line tool that assists in grading students homework submissions. Reads and outputs a csv file that documents student submissions.
