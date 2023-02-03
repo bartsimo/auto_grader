@@ -47,6 +47,3 @@ bartsimo (Simon Bartke)
 
 ##### License
 This project is licensed under CC BY-SA 2.0
-
-##### Acknowledgments
-Thanks for my familiy for the time to let me build this. Thanks for the CS50 team, awesome course!
